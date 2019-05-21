@@ -1,0 +1,7 @@
+terragrunt = {
+  dependencies {
+    paths = [
+      "../../backends"
+    ]
+  }
+}

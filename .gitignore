@@ -1,0 +1,10 @@
+terraform
+.idea/
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+terraform.exe
+.terraform.tfstate.lock.info
+.terraform.tfstate.lock.info
+ISP.pem
+dev/dev-jaws/az1/compute/JAWS_CSR_1.cfg
