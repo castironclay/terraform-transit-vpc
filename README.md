@@ -16,4 +16,4 @@ Because of this model the provisioning of the infrastructure must happen in a sp
 * [AWS](https://aws.amazon.com/) - Cloud Provider
 
 ## Authors
-- Clay C
+- Clay
